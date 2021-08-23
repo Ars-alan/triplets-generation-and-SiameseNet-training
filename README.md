@@ -19,6 +19,6 @@ For all the images in the dataset, cropped face images were obtained and saved u
 'sample_data' consists of the first ten generated triplets.
 
 # Model
-'triplet_generator' was used to generate the triplets, the FaceNet model was trained on the triplet loss using the implementation available at the Keras website: https://keras.io/examples/vision/siamese_network/
+'triplet_generator' was used to generate the triplets, the FaceNet model was trained on the triplet loss using the implementation available at the Keras website: https://keras.io/examples/vision/siamese_network/  
 FaceNet weights can be obtain here: https://github.com/nyoki-mtl/keras-facenet
 
